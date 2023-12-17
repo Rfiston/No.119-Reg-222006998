@@ -1,3 +1,5 @@
+/* This program displays registration form using java 
+*/
 import java.sql.*;
 import javax.swing.JOptionPane;
 /*
